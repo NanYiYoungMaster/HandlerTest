@@ -1,0 +1,7 @@
+D:\_ruanhaoyu\DesignMode\HandlerProject\HandlerProject\bin\Debug\HandlerProject.exe.config
+D:\_ruanhaoyu\DesignMode\HandlerProject\HandlerProject\bin\Debug\HandlerProject.exe
+D:\_ruanhaoyu\DesignMode\HandlerProject\HandlerProject\bin\Debug\HandlerProject.pdb
+D:\_ruanhaoyu\DesignMode\HandlerProject\HandlerProject\obj\Debug\HandlerProject.csprojAssemblyReference.cache
+D:\_ruanhaoyu\DesignMode\HandlerProject\HandlerProject\obj\Debug\HandlerProject.csproj.CoreCompileInputs.cache
+D:\_ruanhaoyu\DesignMode\HandlerProject\HandlerProject\obj\Debug\HandlerProject.exe
+D:\_ruanhaoyu\DesignMode\HandlerProject\HandlerProject\obj\Debug\HandlerProject.pdb
